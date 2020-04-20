@@ -14,7 +14,7 @@ comments: false
 <!-- * What are they?
 * Where do they show up?
 * Main ideas behind efficiently solving them
-* References (other papers, link my writeup or poster?) -->
+* References (other papers, link my writeup, poster, or general exam slides?) -->
 
 # Resources
 * [Port reduction in parametrized component static condensation: approximation and a posteriori error estimation](https://onlinelibrary.wiley.com/doi/pdf/10.1002/nme.4543) 
