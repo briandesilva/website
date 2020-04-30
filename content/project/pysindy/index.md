@@ -30,6 +30,10 @@ links:
   url: https://pysindy.readthedocs.io/en/latest/
   icon_pack: fa
   icon: book
+- name: Paper
+  url: https://arxiv.org/abs/2004.08424
+  icon_pack: fa
+  icon: file-alt
 
 url_code: ""
 url_pdf: ""
