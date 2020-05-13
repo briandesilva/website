@@ -73,4 +73,4 @@ user_groups:
 # - Visitors
 ---
 
-I am a Postdoctoral fellow in the Applied Mathematics department at the University of Washington working with [Nathan Kutz](http://faculty.washington.edu/kutz/) and [Steve Brunton](https://www.eigensteve.com/). My research involves data-driven discovery of dynamical systems, sparsity-promoting regularization methods in neural networks, and physics-informed anomaly detection. I have also worked on developing component-based reduced order models for parameter-dependent elliptic linear partial differential equations.
+I am a Research Scientist in the Applied Mathematics department at the University of Washington working with [Nathan Kutz](http://faculty.washington.edu/kutz/) and [Steve Brunton](https://www.eigensteve.com/). My research involves data-driven discovery of dynamical systems, sparsity-promoting regularization methods in neural networks, and physics-informed anomaly detection. I have also worked on developing component-based reduced order models for parameter-dependent elliptic linear partial differential equations.
