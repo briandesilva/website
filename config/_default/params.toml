@@ -111,7 +111,7 @@ contact_links = [
   {icon = "envelope", icon_pack = "fa", name = "Email", link = "mailto:bdesilva@uw.edu"},
   {icon = "github", icon_pack = "fab", name = "GitHub", link = "https://github.com/briandesilva"},
   {icon = "linkedin", icon_pack = "fab", name = "Linkedin", link = "https://www.linkedin.com/in/brian-de-silva-22a82a38/"},
-  {icon = "cv", icon_pack = "ai", name = "CV", link = "cv/bdesilvacv.pdf"},
+  {icon = "cv", icon_pack = "ai", name = "CV", link = "files/BrianDesilvaCV.pdf"},
   # {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
   # {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
