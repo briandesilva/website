@@ -8,6 +8,7 @@ abstract: "Machine learning (ML) and artificial intelligence (AI) algorithms are
 featured: true
 publication: "*Frontiers in Artificial Intelligence*"
 url_pdf: "https://www.frontiersin.org/article/10.3389/frai.2020.00025"
+url_code: "https://github.com/briandesilva/discovery-of-physics-from-data"
 doi: "10.3389/frai.2020.00025"
 ---
 
