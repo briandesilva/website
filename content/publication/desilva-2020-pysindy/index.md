@@ -2,13 +2,15 @@
 title: "PySINDy: A Python package for the sparse identification of nonlinear dynamical systems from data"
 date: 2020-01-01
 publishDate: 2020-04-14T01:04:56.106755Z
-authors: ["Brian de Silva", "Kathleen Champion", "Markus Quade", "Jean-Christophe Loiseau", "J Nathan Kutz", "Steven L Brunton"]
+authors: ["Brian M. de Silva", "Kathleen Champion", "Markus Quade", "Jean-Christophe Loiseau", "J. Nathan Kutz", "Steven L. Brunton"]
 publication_types: ["2"]
-abstract: "PySINDy is a Python package for the discovery of governing dynamical systems models from data.
-In particular, PySINDy provides tools for applying the sparse identification of nonlinear dynamics (SINDy) (Brunton et al. 2016) approach to model discovery. In this work we provide a brief description of the mathematical underpinnings of SINDy, an overview and demonstration of the features implemented in PySINDy (with code examples),
-practical advice for users, and a list of potential extensions to PySINDy.  Software is available at https://github.com/dynamicslab/pysindy."
+abstract: "PySINDy is a Python package for the discovery of governing dynamical systems models from data. In particular, PySINDy provides tools for applying the sparse identification of nonlinear dynamics (SINDy) (Brunton et al. 2016) approach to model discovery. In this work we provide a brief description of the mathematical underpinnings of SINDy, an overview and demonstration of the features implemented in PySINDy (with code examples), practical advice for users, and a list of potential extensions to PySINDy. Software is available at https://github.com/dynamicslab/pysindy."
 featured: true
-publication: "*Journal of Open Source Software, submitted*"
+publication: "*Journal of Open Source Software*"
+doi: "10.21105/joss.02104"
+url_pdf: "https://doi.org/10.21105/joss.02104"
 url_code: "https://github.com/dynamicslab/pysindy"
+url_video: "https://www.youtube.com/watch?v=DvbbXX8Bd90"
+projects: ["pysindy"]
 ---
 
