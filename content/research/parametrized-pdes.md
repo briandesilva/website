@@ -9,8 +9,7 @@ profile: false
 comments: false
 
 ---
-# Parametrized partial differential equations (PDEs)
-Parametrized PDEs come up
+# Coming soon!
 
 <!-- * What are they?
 * Where do they show up?
